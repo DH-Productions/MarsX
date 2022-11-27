@@ -1,13 +1,4 @@
 
-function sh1() {
-  var x = document.getElementById("myDIV");
-  x.style.display = "none";
-  var y = document.getElementById("myInput");
-  y.style.display = "none";
-}
-
-
-
 document.getElementById('add-to-list').onclick = function() {
   var list = document.getElementById('list');
   var newLI = document.createElement('li');
