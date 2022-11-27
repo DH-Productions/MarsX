@@ -129,6 +129,12 @@ body {
   width: auto;
 }
 
+.life {
+  border-radius: 10px;
+  height: 200px;
+  width: auto;
+}
+
 .geo_mars {
   border-radius: 10px;
   height: 200px;
